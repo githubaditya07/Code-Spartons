@@ -1,0 +1,108 @@
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.header1{
+    color: whitesmoke;
+    text-decoration: underline;
+    text-align: center;
+    padding: 160px;
+    font-size: 90px;
+    font-family: Algerian;
+    background-image:url("https://www.clearwaycommunitysolar.com/wp-content/uploads/2018/05/greenhouse-gas-hero.jpg") ;
+    background-repeat: no-repeat;
+    text-shadow: black ;
+}
+
+.pollution_{
+  border: 0ch;
+  padding: 40px;
+  margin: 0ch;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  background-size: 100%;
+  background-image:url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
+  color: black;
+}
+
+.air_pollution_{
+  border: 0ch;
+  padding: 40px;
+  margin: 0ch;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: left;
+  font-size: 30px;
+  background-size: 100%;
+  background-image:url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
+  color: black;
+}
+
+ul{
+  list-style:lower-roman;
+}
+
+.air_head{
+  color:rgb(255, 89, 89);
+}
+
+.water_head{
+  color:blue;
+}
+
+.ul1{
+  list-style:disc;
+}
+
+.soil_head{
+  color: brown;
+}
+
+.header2{
+  color: whitesmoke;
+  text-decoration: underline;
+  text-align: center;
+  padding: 160px;
+  font-size: 90px;
+  font-family: Algerian;
+  background-image:url("https://blog.ipleaders.in/wp-content/uploads/2020/08/water-pollution.jpg") ;
+  background-repeat: no-repeat;
+  text-shadow: black ;
+}
+
+.header3{
+  color:brown;
+  text-decoration: underline;
+  text-align: center;
+  padding: 160px;
+  font-size: 90px;
+  background-size: 100%;
+  font-family: Algerian;
+  background-image:url("https://www.fao.org/typo3temp/pics/41b26f2fb7.jpg") ;
+  background-repeat: no-repeat;
+  text-shadow: black ;
+}
