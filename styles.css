@@ -108,6 +108,7 @@ ul{
   color:white;
   text-decoration: underline;
   text-align: center;
+  padding: 15%;
   font-size: 450%;
   background-size: 100%;
   font-family: Algerian;
@@ -115,4 +116,5 @@ ul{
   background-repeat: no-repeat;
   text-shadow: black ;
   background-position: center;
+  margin: 0ch;
 }
