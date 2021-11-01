@@ -30,8 +30,6 @@
     color: whitesmoke;
     text-decoration: underline;
     text-align: center;
-    padding: 15%;
-    font-size: 450%;
     font-family: Algerian;
     background-image:url("https://www.clearwaycommunitysolar.com/wp-content/uploads/2018/05/greenhouse-gas-hero.jpg") ;
     background-repeat: no-repeat;
@@ -86,8 +84,8 @@ ul{
   color: whitesmoke;
   text-decoration: underline;
   text-align: center;
-  padding: 160px;
-  font-size: 90px;
+  padding: 15%;
+  font-size: 450%;
   font-family: Algerian;
   background-image:url("https://blog.ipleaders.in/wp-content/uploads/2020/08/water-pollution.jpg") ;
   background-repeat: no-repeat;
@@ -98,8 +96,8 @@ ul{
   color:brown;
   text-decoration: underline;
   text-align: center;
-  padding: 160px;
-  font-size: 90px;
+  padding: 15%;
+  font-size: 450%;
   background-size: 100%;
   font-family: Algerian;
   background-image:url("https://www.fao.org/typo3temp/pics/41b26f2fb7.jpg") ;
