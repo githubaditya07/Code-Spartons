@@ -38,6 +38,18 @@
     text-shadow: black ;
 }
 
+.header{
+  color: whitesmoke;
+  text-decoration: underline;
+  text-align: center;
+  padding: 15%;
+  font-size: 450%;
+  font-family: Algerian;
+  background-image:url("https://www.clearwaycommunitysolar.com/wp-content/uploads/2018/05/greenhouse-gas-hero.jpg") ;
+  background-repeat: no-repeat;
+  text-shadow: black ;
+}
+
 .pollution_{
   border: 0ch;
   padding: 40px;
